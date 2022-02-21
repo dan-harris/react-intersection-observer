@@ -1,0 +1,15 @@
+.App {
+  font-family: monospace, sans-serif;
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+}
+
+html {
+  background-color: #011627;
+  padding: 2rem;
+}
+
+h1 {
+  font-weight: lighter;
+}
